@@ -3,7 +3,7 @@
 		<head>
 			<script src="http://static.dudamobile.com/DM_redirect.js" type="text/javascript"></script>
 <script type="text/javascript">DM_redirect("http://mobile.dudamobile.com/site/northperimetercollision");</script>
-			<title><? echo $title; ?> | North Perimeter Collision</title>
+			<title><?php echo $title; ?> | North Perimeter Collision</title>
 			<meta name="keywords" content="north perimeter collision, north perimeter, collision, repair, car repair, car, insurance, body shop, auto accident, accident repair, north peachtree road, chamblee reapir, chamblee collision, atlanta repair, atlanta collision" />
 			<meta name="description" content="A family owned and operated collision and repair business. Serving the north Atlanta area since 1972.
 " />
